@@ -1,1 +1,1 @@
-# shinshin-mistery
+#[革命]学生が一人で企画やってみたPart(n+1)
